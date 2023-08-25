@@ -1,0 +1,3 @@
+Open GL Lib Freeglut3 не устанавливается в моей системе. Выдает ошибку, не находящуюся в пакете freeglut3-dev
+Сначала запустите следующую команду, чтобы включить репозиторий "Universe":
+sudo add-apt-repository universe
